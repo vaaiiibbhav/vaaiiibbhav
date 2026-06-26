@@ -97,7 +97,7 @@ A **production-deployed** fitness platform with 1000+ lines of optimized code.
 
 **Tech:** MongoDB Atlas, Express.js, React.js, Node.js, GSAP animations, Tailwind CSS
 
-[Live Demo](https://fitpal.example.com) • [GitHub Repository](https://github.com/vaaiiibbhav/FitPal)
+[Live Demo](https://fitpal2026-frontend-59gy.vercel.app) • [GitHub Repository](https://github.com/vaaiiibbhav/FitPal)
 
 ---
 
@@ -114,7 +114,7 @@ Enterprise-grade grocery delivery system handling high-throughput ordering flows
 
 **Tech:** React.js, Node.js, Express.js, MongoDB Atlas, Postman API testing
 
-[GitHub Repository](https://github.com/vaaiiibbhav/UrbanGrocer)
+[Live Demo](https://urban-grocer-grocery-delivery-platf.vercel.app) •[GitHub Repository](https://github.com/vaaiiibbhav/UrbanGrocer)
 
 ---
 
