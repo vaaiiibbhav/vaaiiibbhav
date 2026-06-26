@@ -1,56 +1,200 @@
-# Hi there, I'm Vaibhav Verma! 👋
+# 🚀 Vaibhav Verma
 
-## 🚀 About Me
-I'm an engineering student passionate about full-stack development, competitive programming, and innovative tech solutions. I've participated in various hackathons, including the SIH Hackathon, where I led my team to Round 3. I have a strong interest in Web3, AI/ML, and fitness tracking applications. Currently, I'm exploring new technologies to enhance my skill set and contribute to impactful projects.
+<div align="center">
 
-- 🔭 I’m currently working on a **Fitness Tracker Project**.
-- 🌱 I’m learning **Next.js and React.js**.
-- 👯 I’m open to collaborating on **open-source and hackathon projects**.
-- 💬 Ask me about **web development, problem-solving, and software engineering**.
-- 📫 Reach me at: **vaaiiibbhav@gmail.com** | **vaibhav.23bce11700@vitbhopal.ac.in**
+**Full-Stack Developer | AI/ML Engineer | Computer Vision Enthusiast**
 
-## 🛠️ Skills
-### Languages:
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+Building scalable systems that solve real problems—from production-grade MERN applications to intelligent ML pipelines powering government portals.
 
-### Frameworks & Libraries:
-- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+[LinkedIn](https://linkedin.com/in/vaibhav-verma-905a1b270) • [GitHub](https://github.com/vaaiiibbhav) • [LeetCode](https://leetcode.com/u/vaaiiibbhav/) • [Email](mailto:vaibhav.23bce11700@vitbhopal.ac.in)
 
-### Web Development:
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+</div>
 
-### Backend Development:
-- ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+---
 
-### Other Tools:
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+## 💡 About Me
 
-### IDEs:
-- ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+Third-year **B.Tech Computer Science** student at **Vellore Institute of Technology**, currently interning in AI/ML engineering and enterprise platform development. I'm passionate about architecting systems that scale—whether that's full-stack web applications handling thousands of transactions or ML models processing government datasets at scale.
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaaiiibbhav&theme=dark" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=vaaiiibbhav&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaaiiibbhav&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+**What I'm focused on right now:**
+- Building production-grade full-stack systems with **React.js, Node.js, and Python**
+- Implementing enterprise workflows with **ServiceNow** (Workflow Studio, ATF, Agentic AI)
+- Architecting ML pipelines for real-world government data processing
+- Mentoring peer developers on best practices in full-stack development
 
-## 🚀 Projects
-### **MEDCARE: A Lifeline**
-**Description:** A web platform that integrates Google Maps to track disease-prone areas, provide prevention tips, and display nearby hospitals.
-- **Tech Stack:** JavaScript, Google Maps API, HTML, CSS
-- **Highlights:** Presented the concept in SIH Hackathon.
+---
 
-### **Fitness Tracker**
-**Description:** A personal fitness tracker to monitor workouts, calorie intake, and progress towards fitness goals.
-- **Tech Stack:** React.js, Firebase, Tailwind CSS
-- **Highlights:** In development to optimize tracking and user experience.
+## 🛠️ Technical Arsenal
 
-## 📫 Connect with Me
-- **LinkedIn:** [Vaibhav Verma](https://linkedin.com/in/vaibhav-verma-905a1b270)
-- **GitHub:** [vaaiiibbhav](https://github.com/vaaiiibbhav)
-- **LeetCode:** [vaaiiibbhav](https://leetcode.com/u/vaaiiibbhav/)
-- **GeeksforGeeks:** [vaaiii6y5o](https://www.geeksforgeeks.org/user/vaaiii6y5o/)
-- **Twitter:** [Your Twitter Handle](#)
+### **Languages & Fundamentals**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
-Let's collaborate and build something awesome together! 🚀
+### **AI/ML & Data Science**
+| Framework | Technologies |
+|-----------|--------------|
+| **Deep Learning** | PyTorch, TensorFlow, Keras |
+| **Classical ML** | Scikit-learn, XGBoost, LightGBM |
+| **Computer Vision** | OpenCV, MediaPipe, NiBabel |
+| **Data Processing** | Pandas, NumPy, SciPy |
+| **LLM & AI Agents** | LangChain, RAG, Prompt Engineering, LLM Tool-Use, Agentic Workflows |
+
+### **Web Development Stack**
+**Frontend:** React.js • Next.js • GSAP • Tailwind CSS • Bootstrap • HTML5 • CSS3
+
+**Backend:** Node.js • Express.js • Django • FastAPI • REST APIs • WebSockets
+
+**Databases:** MongoDB Atlas • MySQL • PostgreSQL
+
+### **Enterprise & DevOps**
+![ServiceNow](https://img.shields.io/badge/ServiceNow-0078D4?style=flat-square&logo=servicenow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+
+---
+
+## 💼 Professional Experience
+
+### **ServiceNow Virtual Platform Engineering Intern** `May 2026 – June 2026`
+*Remote • Vellore Institute of Technology*
+
+- 🏆 **Earned ServiceNow Micro Certification** spanning Administration, Workflow Studio, ATF, and Agentic AI
+- ⚙️ Configured **Service Catalog approval flows** and **Platform Analytics dashboards** on sandbox instances
+- 🤖 Deployed **Flow Designer automations** for intelligent incident routing
+- 📊 Generated **SLA trend reports** using ServiceNow AI Platform
+- ✍️ Authored comprehensive **Knowledge Management articles** for platform best practices
+
+### **AI/ML & Advanced Software Engineering Intern** `March 2026 – Present`
+*MPOnline – Government of Madhya Pradesh*
+
+- 🔧 **Architected regional data pipelines** using Pandas & NumPy → **35% latency reduction** in preprocessing
+- 🎯 Implemented **multi-class ML classification models** (Scikit-learn, PyTorch) for citizen-request triage
+  - **87%+ validation accuracy** on document categorization tasks
+- 🏗️ Designed **scalable MVC/REST backend architectures** for citizen-facing portals
+- 📋 Delivered across **Agile sprints** with unit tests, code reviews, and compliance documentation
+
+---
+
+## 🔥 Featured Projects
+
+### **FitPal – Fitness Tracker Web Application** 
+`MERN Stack | Nov 2024`
+
+A **production-deployed** fitness platform with 1000+ lines of optimized code.
+
+**What it does:**
+- 🔐 JWT-authenticated user accounts with persistent session management
+- 📊 Real-time progress visualization with interactive charts
+- 🥗 Nutrition checker & BMI calculator integrated
+- 💪 Comprehensive workout database with filtering & search
+
+**Tech:** MongoDB Atlas, Express.js, React.js, Node.js, GSAP animations, Tailwind CSS
+
+[Live Demo](https://fitpal.example.com) • [GitHub Repository](https://github.com/vaaiiibbhav/FitPal)
+
+---
+
+### **UrbanGrocer – Scalable Delivery Platform**
+`Full-Stack | Mar 2025`
+
+Enterprise-grade grocery delivery system handling high-throughput ordering flows.
+
+**Architecture highlights:**
+- 🛒 State-managed cart with atomic checkout operations
+- ⚡ Optimized MongoDB Atlas indexing for sub-100ms product lookups
+- 🔄 Asynchronous React state management (zero-stutter UX)
+- 📦 Order management pipeline with intelligent routing logic
+
+**Tech:** React.js, Node.js, Express.js, MongoDB Atlas, Postman API testing
+
+[GitHub Repository](https://github.com/vaaiiibbhav/UrbanGrocer)
+
+---
+
+### **Secure-OSINT-FaceID – Smart Doorbell System**
+`Computer Vision | Jan 2026`
+
+Edge-deployed real-time facial recognition with automated visitor profiling.
+
+**Features:**
+- 👤 Real-time face detection & recognition using MediaPipe + OpenCV
+- 🔍 Selenium-driven OSINT pipeline for visitor profile enrichment
+- 🚀 Async frame processing for zero-stutter video output
+- 🔐 Privacy-first architecture with local processing
+
+**Tech:** Python, MediaPipe, OpenCV, Selenium, Async I/O
+
+[GitHub Repository](https://github.com/vaaiiibbhav/Secure-OSINT-FaceID)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vaaiiibbhav&theme=dark&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaaiiibbhav&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaaiiibbhav&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 Core Competencies at a Glance
+
+| Domain | Highlight |
+|--------|-----------|
+| **Full-Stack Development** | MERN architecture, REST APIs, real-time state management |
+| **Machine Learning** | Multi-class classification, data pipeline design, PyTorch/Scikit-learn |
+| **Computer Vision** | Real-time facial recognition, MediaPipe, OpenCV, edge deployment |
+| **Enterprise Systems** | ServiceNow platform engineering, workflow automation, analytics |
+| **Problem Solving** | Competitive programming, system design, optimization strategies |
+| **Scalability** | MongoDB indexing, async processing, optimized routing algorithms |
+
+---
+
+## 🌱 Currently Learning
+
+- 🤖 **Advanced Agentic AI Workflows** – Building intelligent autonomous agents
+- 🔮 **Web3 & Blockchain** – Exploring decentralized systems
+- 📱 **Advanced Next.js Patterns** – Server components, edge computing
+- 🧠 **Large Language Model Fine-tuning** – Domain-specific model optimization
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm actively looking for:
+- **Open-source projects** solving real problems
+- **Hackathon teams** pushing boundaries in AI/ML and full-stack development
+- **Research collaborations** in computer vision and agentic AI
+- **Mentoring opportunities** to guide junior developers
+
+**How to reach me:**
+- 📧 **Email:** [vaibhav.23bce11700@vitbhopal.ac.in](mailto:vaibhav.23bce11700@vitbhopal.ac.in)
+- 💬 **Quick chat:** [vaaiiibbhav@gmail.com](mailto:vaaiiibbhav@gmail.com)
+- 🔗 **LinkedIn:** [Vaibhav Verma](https://linkedin.com/in/vaibhav-verma-905a1b270)
+- 🐙 **GitHub:** [@vaaiiibbhav](https://github.com/vaaiiibbhav)
+- 💻 **LeetCode:** [vaaiiibbhav](https://leetcode.com/u/vaaiiibbhav/)
+- 🖥️ **GeeksforGeeks:** [vaaiii6y5o](https://www.geeksforgeeks.org/user/vaaiii6y5o/)
+
+---
+
+<div align="center">
+
+### 💭 "Code that scales solves real problems. I build both."
+
+**Always open to interesting conversations about tech, startups, and impact.** 
+
+⭐ If you find my work interesting, consider starring my repositories—it helps more people discover them!
+
+</div>
