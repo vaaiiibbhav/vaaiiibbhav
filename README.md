@@ -79,9 +79,13 @@ MPOnline (Govt. MP)   AI/ML & Software Engineering Intern              Mar 2026 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vaaiiibbhav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165" alt="Vaibhav's GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaaiiibbhav&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" alt="Top Languages"/>
-<img src="https://streak-stats.demolab.com/?user=vaaiiibbhav&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" alt="GitHub Streak"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vaaiiibbhav&theme=tokyonight" alt="Vaibhav's GitHub Stats"/>
+<img height="170" src="https://streak-stats.demolab.com/?user=vaaiiibbhav&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Streak"/>
+
+<br/>
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vaaiiibbhav&theme=tokyonight" alt="Top Languages by Repository"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vaaiiibbhav&theme=tokyonight" alt="Most Used Languages by Commit"/>
 
 <br/><br/>
 
