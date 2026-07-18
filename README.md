@@ -75,16 +75,17 @@ MPOnline (Govt. MP)   AI/ML & Software Engineering Intern              Mar 2026 
 
 ---
 
-## GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vaaiiibbhav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaaiiibbhav&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaaiiibbhav&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vaaiiibbhav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165" alt="Vaibhav's GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaaiiibbhav&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" alt="Top Languages"/>
+<img src="https://streak-stats.demolab.com/?user=vaaiiibbhav&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" alt="GitHub Streak"/>
 
-<!-- Contribution snake -->
-<br/>
+<br/><br/>
+
+<!-- Contribution Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaaiiibbhav/vaaiiibbhav/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vaaiiibbhav/vaaiiibbhav/output/github-contribution-grid-snake.svg">
